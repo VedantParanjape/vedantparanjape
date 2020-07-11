@@ -2,7 +2,7 @@
 
 <!--
 **VedantParanjape/vedantparanjape** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... simpPRU, it is for my GSoC project
@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... Data structures
 - 💬 Ask me about ... Embeddded, System design, C/C++, Networking, ROS
 - 📫 How to reach me: ... ping me on IRC @vedant16:matrix.org
--->

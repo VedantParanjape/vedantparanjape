@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Embeddded, System design, C/C++, Networking, ROS
 - 📫 Ping me on IRC @vedant16:matrix.org
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id?page_id=vedantparanjape.vedantparanjape)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=vedantparanjape.vedantparanjape)

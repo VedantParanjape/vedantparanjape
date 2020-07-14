@@ -10,3 +10,7 @@ Here are some ideas to get you started:
 - 📫 Ping me on IRC @vedant16:matrix.org
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=vedantparanjape.vedantparanjape)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=vedantparanjape" style="horizontal-align:middle"/>
+</a>

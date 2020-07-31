@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 Ping me on IRC @vedant16:matrix.org
 
 <img src="https://github-readme-stats.vercel.app/api?username=vedantparanjape" style="horizontal-align:middle"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vedantparanjape&layout=compact"/>

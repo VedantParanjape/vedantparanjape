@@ -8,5 +8,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Data structures
 - 💬 Ask me about Embeddded, System design, C/C++, Networking, ROS
 - 📫 Ping me on IRC @vedant16:matrix.org
-
-<img src="https://github-readme-stats.vercel.app/api?username=vedantparanjape" style="horizontal-align:middle"/>

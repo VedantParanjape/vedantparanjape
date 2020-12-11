@@ -9,9 +9,9 @@
 
 - 🤝 I’m looking for help with **Data structures**
 
-- 👨‍💻 All of my projects are available at [ve0x10.me](ve0x10.me)
+- 👨‍💻 All of my projects are available at [ve0x10.me](https://ve0x10.me)
 
-- 📝 I regulary write articles on [ve0x10.me/blog](ve0x10.me/blog)
+- 📝 I regulary write articles on [ve0x10.me/blog](https://ve0x10.me/blog)
 
 - 💬 Ask me about **Embeddded systems, System design, C/C++, Networking, OS, ROS**
 

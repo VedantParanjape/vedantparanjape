@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedant</h1>
 <h3 align="center">I am a Developer from India, I have decent experience in Embedded systems, and Robotics</h3>
 
-- 🔭 I’m currently working on **esp-2fa**
+- 🔭 I’m currently working on **Open Authenticator**
 
 - 🌱 I’m currently learning **Reinforcement Learning**
 

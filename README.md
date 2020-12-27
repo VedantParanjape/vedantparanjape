@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedant</h1>
 <h3 align="center">I am a Developer from India, I have decent experience in Embedded systems, and Robotics</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedantparanjape&theme=onedark" alt="vedantparanjape" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedantparanjape&theme=monokai" alt="vedantparanjape" /></a> </p>
 
 - 🔭 I’m currently working on **Open Authenticator**
 

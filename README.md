@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedantparanjape&theme=monokai" alt="vedantparanjape" /></a> </p>
 
-- 🔭 I’m currently working on **Open Authenticator**
+- 🔭 I’m currently working on **[Open Authenticator](https://github.com/Open-Authenticator)**
 
 - 🌱 I’m currently learning **Reinforcement Learning**
 

@@ -6,8 +6,8 @@
 - 🔭 I’m currently working on **[Open Authenticator](https://github.com/Open-Authenticator)**
 - 🌱 I’m currently learning **Reinforcement Learning**
 - 👯 I’m looking to collaborate on **Embedded system projects**
-- 👨‍💻 All of my projects are available at [ve0x10.me](https://ve0x10.me)
-- 📝 I regulary write articles on [ve0x10.me/blog](https://ve0x10.me/blog)
+- 👨‍💻 All of my projects are available at [ve0x10.me](https://ve0x10.in)
+- 📝 I regulary write articles on [ve0x10.me/blog](https://ve0x10.in/blog)
 - 💬 Ask me about **Embeddded systems, System design, C/C++, Networking, OS, ROS**
 - 📫 How to reach me **IRC vedant16:matrix.org**
 

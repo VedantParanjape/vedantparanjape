@@ -3,6 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedantparanjape&theme=monokai" alt="vedantparanjape" /></a> </p>
 
+- 💻 Currently working on adding multistream support to VIMC.
 - 🌱 I’m currently learning **Compiler optimizations**
 - 👯 I’m looking to collaborate on **Systems projects**
 - 👨‍💻 All of my projects are available at [ve0x10.me](https://ve0x10.in)
